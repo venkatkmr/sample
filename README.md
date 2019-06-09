@@ -5,4 +5,5 @@ sample repository
 hi
 .......................
 new session
------------
+
+modified
