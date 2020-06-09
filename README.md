@@ -1,9 +1,0 @@
-# sample
-sample repository
-...
-....
-hi
-.......................
-new session
-
-removed modified
